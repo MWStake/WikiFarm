@@ -10,7 +10,7 @@ use Wikimedia\ParamValidator\ParamValidator;
 
 
 /**
- * solr proxy REST endpoint. This is where SOLR requests are processed
+ * Endpoint to trigger the creation of a new virtual wiki
  */
 class CreateWikiEndpoint extends SimpleHandler {
 
